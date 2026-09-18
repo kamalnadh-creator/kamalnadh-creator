@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm Kamal Nadh 👋
 
-<!--
-**kamalnadh-creator/kamalnadh-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | AI Product Builder | Founder of Dhandha Dheko
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering graduate specializing in Artificial Intelligence & Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical AI-powered software, automation systems, and business intelligence solutions.
+
+🚀 What I'm Building
+
+Dhandha Dheko
+
+An AI-powered Business Operating System designed to help businesses manage operations, understand their data, and make better business decisions.
+
+🌐 https://dhandhadheko.com/
+
+🛠️ Technologies
+
+- Python
+- SQL
+- PostgreSQL
+- Supabase
+- n8n
+- AI / LLM Applications
+- AI Agents
+- REST APIs
+- Webhooks
+- Row Level Security (RLS)
+- GitHub
+- SaaS Development
+- Business Intelligence
+
+🎯 Current Focus
+
+- AI Engineering
+- Business Automation
+- Data Intelligence
+- AI-powered Decision Systems
+- SaaS Product Development
+
+🎓 Education
+
+B.Tech — Computer Science & Engineering (AI & ML)
+Vardhaman College of Engineering
+
+🤝 Connect With Me
+
+🌐 Dhandha Dheko: https://dhandhadheko.com/
